@@ -15,6 +15,6 @@ I'm a backend and full-stack developer focused on building real-world web applic
   Features include CRUD operations, search, pagination, toast notifications, and responsive UI.
 
 ### 📫 Connect with me
-- LinkedIn: linkedin.com/in/sunil-lamania
+- LinkedIn: https://www.linkedin.com/in/sunil-lamania
 - GitHub: https://github.com/sunshiv123
-- portfolio: sunshiv123.github.io/my-portfolio
+- portfolio: https://sunshiv123.github.io/my-portfolio/
