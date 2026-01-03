@@ -1,18 +1,20 @@
-## 👋 Hi, I'm Sunil
+👋 Hi, I'm Sunil
 
-I'm a Computer Science student passionate about backend and full-stack development.
+I'm a backend and full-stack developer focused on building real-world web applications using Java, Spring Boot, REST APIs, and MySQL.
 
-### 💻 Skills
+💻 Skills
 - Java, Spring Boot
 - REST APIs
 - MySQL
 - HTML, CSS, JavaScript
 - Git & GitHub
 
-### 🚀 Projects
-- **Student Management System**  
-  Full-stack application with Spring Boot backend and modern frontend UI.
+🚀 Projects
+- Student Management System  
+  A full-stack web application built with Spring Boot REST APIs, MySQL, and a modern HTML/CSS/JavaScript frontend.  
+  Features include CRUD operations, search, pagination, toast notifications, and responsive UI.
 
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/sunil-lamani-18a282317/
-- GitHub: https://github.com/sunshiv123
+🔗 Connect with me
+- LinkedIn: linkedin.com/in/sunil-lamania
+- GitHub: github.com/sunshiv123
+- Portfolio: sunshiv123.github.io/my-portfolio
