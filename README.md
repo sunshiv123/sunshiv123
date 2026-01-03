@@ -14,5 +14,5 @@ I'm a Computer Science student passionate about backend and full-stack developme
   Full-stack application with Spring Boot backend and modern frontend UI.
 
 ### 📫 Connect with me
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/sunil-lamani-18a282317/
 - GitHub: https://github.com/sunshiv123
