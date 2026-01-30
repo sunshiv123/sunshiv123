@@ -11,7 +11,7 @@ I'm a backend and full-stack developer focused on building real-world web applic
 
 ### 🚀 Projects
 - **Student Management System**
-- Live Demo : https://sunshiv123.github.io/student-management/
+
   A full-stack web application built with Spring Boot REST APIs, MySQL, and a modern HTML/CSS/JavaScript frontend.  
   Features include CRUD operations, search, pagination, toast notifications, and responsive UI.
 
