@@ -18,4 +18,4 @@ I'm a backend and full-stack developer focused on building real-world web applic
 ### 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/sunil-lamania
 - GitHub: https://github.com/sunshiv123
-- portfolio: https://sunshiv123.github.io/my-portfolio/
+- portfolio: https://sunillamani-portfolio.netlify.app/#projects
