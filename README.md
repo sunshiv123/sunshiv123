@@ -1,6 +1,3 @@
-Here's the full README — copy everything below and paste it into your `sunshiv123/README.md` file on GitHub:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">Final-Year Computer Science Student | Java Full Stack Developer</h3>
 
@@ -100,6 +97,3 @@ A single-file, framework-free, responsive portfolio site showcasing my projects,
 </p>
 
 <p align="center"><i>⭐️ Open to Fresher Java Developer roles — let's connect!</i></p>
-```
-
-Paste this directly into the `README.md` file in your `sunshiv123` repo, commit, and it'll show on your profile at github.com/sunshiv123.
