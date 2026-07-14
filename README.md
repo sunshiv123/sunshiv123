@@ -67,19 +67,6 @@ A single-file, framework-free, responsive portfolio site showcasing my projects,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunshiv123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sunil's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshiv123&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunshiv123&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🎓 Certifications
 
 - AI for Beginners — HP Life
